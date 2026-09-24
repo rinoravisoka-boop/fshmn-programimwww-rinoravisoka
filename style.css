@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: system-ui, sans-serif;
+  margin: 1rem;
+}
+hr {
+  border: none;
+  border-top: 2px solid #005a4e;
+  margin: 20px 0;
+}
+h1, h2, h3 {
+  font-weight: 700;
+  color: #000000; 
+}
+
+a {
+  color: #2b6cb0;
+  text-decoration: underline;
+}
+
