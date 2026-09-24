@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <a class="skip" href="#main">Kalo te përmbajtja</a>
+    <a class="skip" href="#rrethnesh.html">Kalo te përmbajtja</a>
 
     <header>
       <p>Programimi në WWW · Zgjidhje reference</p>
