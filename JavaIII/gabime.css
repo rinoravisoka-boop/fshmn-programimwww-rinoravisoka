@@ -1,0 +1,11 @@
+.poster {
+  background-color: #ffffff;
+  color: #17263c;
+
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 600px; 
+  
+  padding: 2rem; 
+  margin: 0 auto;
+}
