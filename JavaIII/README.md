@@ -1,4 +1,4 @@
-Klinika e CSS: Shpëto Afishen
+Klubi i debatit
 
 Afishe ueb e ndërtuar me HTML5 dhe CSS3 si pjesë e detyrës "Programimi në WWW".
 
