@@ -1,0 +1,31 @@
+* { box-sizing: border-box; }
+
+body { font-family: system-ui, sans-serif; margin: 1rem; }
+
+.resources { padding: 1rem;
+             border: 2px solid navy; 
+             box-sizing: border-box;
+             width:100%;
+
+             }
+.cards{
+      overflow-wrap: break-word;
+      word-break: break-all;
+}
+#burimet{
+    width:100%;
+    display: grid;   
+    gap: 1rem; 
+    grid-template-columns: 1fr;
+    grid-template-columns: repeat(3,1fr);
+    scroll-behavior: none;
+}
+
+
+a:focus,:focus-visible { outline: 3px solid navy; outline-offset: 3px; }
+
+@media (min-width: 1000px) { 
+    .cards:nth-child(1){
+        grid-template-columns: 1/3;
+    }
+ }
